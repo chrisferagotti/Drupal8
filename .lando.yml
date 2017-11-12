@@ -1,0 +1,7 @@
+name: nhttac
+recipe: drupal8
+config:
+  drush: stable
+  xdebug: true
+  php: '7.1'
+  webroot: web
