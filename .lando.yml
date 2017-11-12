@@ -1,4 +1,4 @@
-name: nhttac
+name: phil
 recipe: drupal8
 config:
   drush: stable
